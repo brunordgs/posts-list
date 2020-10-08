@@ -1,0 +1,93 @@
+.card-hover a {
+	text-decoration: none;
+	text-decoration-color: inherit;
+	cursor: pointer;
+	color: #212121;
+}
+
+.card-background {
+	background: white;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	margin-top: 30px;
+	border-radius: 8px;
+	transition: transform 0.2s;
+}
+
+.card-background:hover {
+	transform: scale(1.1);
+}
+
+.card-content {
+	margin: 20px 0;
+}
+
+.card-content p,
+.modal-content p {
+	text-align: justify;
+	line-height: 24px;
+}
+
+.card-rest {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.card-rest img {
+	height: 72px;
+	border: 2px solid #eeee;
+	border-radius: 50%;
+}
+
+.button-block {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.modal-content h1 {
+	text-align: center;
+}
+
+.modal-content p {
+	margin: 20px 0;
+}
+
+.modal-content button {
+	width: 100%;
+	height: 54px;
+	background: #232530;
+	color: white;
+	border-radius: 8px;
+	font: 500 16px Poppins;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: background-color 0.2s;
+}
+
+.modal-content button:hover {
+	background: #1a1c23;
+}
+
+.modal-content button a {
+	color: white;
+}
+
+.button-block button {
+	background: none;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.button-block button i {
+	font-size: 32px;
+	color: #aaa;
+	transition: color 0.2s;
+}
+
+.button-block button i:hover {
+	color: #777777;
+}
