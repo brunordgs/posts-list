@@ -2,7 +2,7 @@
 Posts list website, made with React and CSS3.
 
 ## Getting started
-To get started you need close this repository:
+To get started you need clone this repository:
 ```bash
 git clone <repository link>
 ```
@@ -10,7 +10,7 @@ After that, install the necessary packages:
 ```bash
 yarn or npm i
 ```
-And finally, run server with:
+And finally, run server:
 ```bash
 yarn start or npm run start
 ```
