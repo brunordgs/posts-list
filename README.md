@@ -2,9 +2,10 @@
 Posts list website, made with React and CSS3.
 
 ## Getting started
-To get started you need clone this repository:
+To get started you need clone this repository and change to folder:
 ```bash
 git clone <repository link>
+cd posts-list
 ```
 After that, install the necessary packages:
 ```bash
