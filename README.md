@@ -7,7 +7,7 @@ To get started you need clone this repository and change to folder:
 git clone <repository link>
 cd posts-list
 ```
-After that, install the necessary packages:
+After that, install the necessary dependencies:
 ```bash
 yarn or npm i
 ```
